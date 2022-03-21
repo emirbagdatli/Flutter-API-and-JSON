@@ -1,0 +1,36 @@
+[
+    {
+        "brand_name": "Mercedes",
+        "country": "Germany",
+        "foundation_date": 1926,
+        "models": [
+            {
+                "model_name": "A Series",
+                "price": 15000,
+                "gas": true
+            },
+            {
+                "model_name": "C Series",
+                "price": 25000,
+                "gas": false
+            }
+        ]
+    },
+    {
+        "brand_name": "Tesla",
+        "country": "USA",
+        "foundation_date": 2003,
+        "models": [
+            {
+                "model_name": "T Series",
+                "price": 30000,
+                "gas": false
+            },
+            {
+                "model_name": "P Series",
+                "price": 40000,
+                "gas": false
+            }
+        ]
+    }
+]
